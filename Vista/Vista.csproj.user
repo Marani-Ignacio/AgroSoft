@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Agricultor\FormAgricultor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Agricultor\FormAgricultores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Auditorias\FormAuditoriasIngresos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Auditorias\FormAuditoriasSalidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Auditorias\FormAuditoriasVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Auditorias\FormAuditoriasLogIn-LogOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\FormGraficoReporteIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\FormGraficoReporteSalida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\FormGraficoReporteVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\FormConsultarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\FormConsultarVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\FormConsultarSalida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\FormConsultarIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Usuario\FormGestionarPermisosUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Usuario\FormVerPermisosUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Usuario\FormGestionarGruposUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Usuario\FormVerGruposUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Permiso\FormGestionarPermisosGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Permiso\FormVerPermisosGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\FormReporteIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\FormReporteSalida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\FormReporteVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Usuario\FormDatosUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Usuario\FormUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Usuario\FormUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grupo\FormGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grupo\FormGrupos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\FormComprobante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Venta\FormCargarVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Salida\FormCargaSalida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ingreso\FormCargaIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\FormCartadePorte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cliente\FormCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cliente\FormClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Producto\FormProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Producto\FormProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Venta\FormVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Semilla\FormSemilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Industria\FormIndustria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Industria\FormIndustrias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transporte\FormClienteTransporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ingreso\FormIngresos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Salida\FormSalidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Semilla\FormSemillas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transporte\FormTransporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transporte\FormTransportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

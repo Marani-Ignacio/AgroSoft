@@ -1,0 +1,85 @@
+C:\UAI\2024\Tp_AFA\Controladora\bin\Debug\net6.0\Controladora.deps.json
+C:\UAI\2024\Tp_AFA\Controladora\bin\Debug\net6.0\Controladora.dll
+C:\UAI\2024\Tp_AFA\Controladora\bin\Debug\net6.0\Controladora.pdb
+C:\UAI\2024\Tp_AFA\Controladora\bin\Debug\net6.0\Modelo.dll
+C:\UAI\2024\Tp_AFA\Controladora\bin\Debug\net6.0\Modelo.pdb
+C:\UAI\2024\Tp_AFA\Controladora\obj\Debug\net6.0\Controladora.csproj.AssemblyReference.cache
+C:\UAI\2024\Tp_AFA\Controladora\obj\Debug\net6.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2024\Tp_AFA\Controladora\obj\Debug\net6.0\Controladora.AssemblyInfoInputs.cache
+C:\UAI\2024\Tp_AFA\Controladora\obj\Debug\net6.0\Controladora.AssemblyInfo.cs
+C:\UAI\2024\Tp_AFA\Controladora\obj\Debug\net6.0\Controladora.csproj.CoreCompileInputs.cache
+C:\UAI\2024\Tp_AFA\Controladora\obj\Debug\net6.0\Controla.1EE7A4DA.Up2Date
+C:\UAI\2024\Tp_AFA\Controladora\obj\Debug\net6.0\Controladora.dll
+C:\UAI\2024\Tp_AFA\Controladora\obj\Debug\net6.0\refint\Controladora.dll
+C:\UAI\2024\Tp_AFA\Controladora\obj\Debug\net6.0\Controladora.pdb
+C:\UAI\2024\Tp_AFA\Controladora\obj\Debug\net6.0\ref\Controladora.dll
+C:\UAI\2024\Tp_AFA\Controladora\bin\Debug\net6.0\Controladora.runtimeconfig.json
+C:\UAI\2024\Tp_AFA\Controladora\obj\Debug\net6.0\Controladora.genruntimeconfig.cache
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Controladora.deps.json
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Controladora.runtimeconfig.json
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Controladora.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Controladora.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Modelo.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Modelo.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.csproj.AssemblyReference.cache
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.AssemblyInfoInputs.cache
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.AssemblyInfo.cs
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.csproj.CoreCompileInputs.cache
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controla.1EE7A4DA.Up2Date
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\refint\Controladora.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.genruntimeconfig.cache
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\ref\Controladora.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Controladora.deps.json
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Controladora.runtimeconfig.json
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Controladora.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Controladora.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Modelo.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Modelo.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.csproj.AssemblyReference.cache
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.AssemblyInfoInputs.cache
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.AssemblyInfo.cs
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.csproj.CoreCompileInputs.cache
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controla.1EE7A4DA.Up2Date
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\refint\Controladora.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.genruntimeconfig.cache
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\ref\Controladora.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Controladora.deps.json
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Controladora.runtimeconfig.json
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Controladora.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Controladora.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Modelo.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Modelo.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.csproj.AssemblyReference.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.AssemblyInfoInputs.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.AssemblyInfo.cs
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.csproj.CoreCompileInputs.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controla.1EE7A4DA.Up2Date
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\refint\Controladora.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.genruntimeconfig.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\ref\Controladora.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Controladora.deps.json
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Controladora.runtimeconfig.json
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Controladora.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Controladora.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Modelo.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\bin\Debug\net6.0\Modelo.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.csproj.AssemblyReference.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.AssemblyInfoInputs.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.AssemblyInfo.cs
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.csproj.CoreCompileInputs.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controla.1EE7A4DA.Up2Date
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\refint\Controladora.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\Controladora.genruntimeconfig.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Controladora\obj\Debug\net6.0\ref\Controladora.dll

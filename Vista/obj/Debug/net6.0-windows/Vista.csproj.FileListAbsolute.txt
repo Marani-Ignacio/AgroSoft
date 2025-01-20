@@ -1,0 +1,579 @@
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.Login.resources
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.Menu.resources
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Vista.exe
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Vista.deps.json
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Vista.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Vista.pdb
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.dll
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.pdb
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\ref\Vista.dll
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.FormAgricultores.resources
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Controladora.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Modelo.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Controladora.pdb
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Modelo.pdb
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.csproj.Up2Date
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.FormIndustrias.resources
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.FormIngresos.resources
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.FormReportes.resources
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.FormSalidas.resources
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.FormSemillas.resources
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.FormTransportes.resources
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Humanizer.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\UAI\2024\Tp_AFA\Vista\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.FormAgricultor.resources
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.FormIndustria.resources
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.FormClienteTransporte.resources
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.FormTransporte.resources
+C:\UAI\2024\Tp_AFA\Vista\obj\Debug\net6.0-windows\Vista.FormSemilla.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.exe
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.deps.json
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Humanizer.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Controladora.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Modelo.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Controladora.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Modelo.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormAgricultor.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormAgricultores.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormIngresos.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormReportes.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormSalidas.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormIndustria.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormIndustrias.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.Login.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.Menu.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormSemilla.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormSemillas.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormClienteTransporte.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormTransporte.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormTransportes.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.csproj.Up2Date
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\ref\Vista.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormConsumidor.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormConsumidores.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormProducto.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormProductos.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormVentas.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCartadePorte.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCargaIngreso.resources
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCargaSalida.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.exe
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.deps.json
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Humanizer.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Controladora.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Modelo.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Controladora.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Modelo.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormAgricultor.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormAgricultores.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormVentas.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormIndustria.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormIndustrias.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCargaIngreso.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormIngresos.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.Login.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.Menu.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormProducto.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormProductos.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCartadePorte.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCargaSalida.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormSalidas.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormSemilla.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormSemillas.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormClienteTransporte.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormTransporte.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormTransportes.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.csproj.Up2Date
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\ref\Vista.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Irony.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\XLParser.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCargarVenta.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCliente.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormClientes.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\itextsharp.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.Reportes.FormComprobante.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormUsuario.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormUsuarios.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormGrupo.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormGrupos.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormPermisoGrupo.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormPermisos.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormDatosUsuarios.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormReporteIngreso.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormReporteSalida.resources
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormReporteVenta.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.exe
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.deps.json
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Humanizer.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Irony.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\itextsharp.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\XLParser.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Controladora.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Modelo.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Controladora.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Modelo.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormAgricultor.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormAgricultores.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCliente.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormClientes.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormGrupo.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormGrupos.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormIndustria.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormIndustrias.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCargaIngreso.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormIngresos.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.Login.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.Menu.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormPermisoGrupo.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormPermisos.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormProducto.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormProductos.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCartadePorte.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.Reportes.FormComprobante.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormReporteIngreso.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormReporteSalida.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormReporteVenta.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCargaSalida.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormSalidas.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormSemilla.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormSemillas.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormClienteTransporte.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormTransporte.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormTransportes.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormDatosUsuarios.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormUsuario.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormUsuarios.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCargarVenta.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormVentas.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.csproj.Up2Date
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\ref\Vista.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormAgricultor.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormAgricultores.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormAuditoriasIngresos.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormAuditoriasLogIn_LogOut.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormAuditoriasSalidas.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormAuditoriasVentas.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCliente.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormClientes.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormGraficoReporteIngreso.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormGraficoReporteSalida.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormGraficoReporteVenta.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormGrupo.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormGrupos.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormIndustria.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormIndustrias.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCargaIngreso.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormIngresos.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.Login.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.Menu.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormGestionarPermisosGrupo.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormVerPermisosGrupo.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormProducto.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormProductos.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.Properties.Resources.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCartadePorte.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.Reportes.FormComprobante.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormConsultarIngreso.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormConsultarSalida.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormConsultarUsuario.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormConsultarVenta.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormReporteIngreso.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormReporteSalida.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormReporteVenta.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCargaSalida.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormSalidas.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormSemilla.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormSemillas.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormClienteTransporte.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormTransporte.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormTransportes.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormDatosUsuarios.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormGestionarGruposUsuario.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormGestionarPermisosUsuario.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormUsuario.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormUsuarios.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormVerGruposUsuario.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormVerPermisosUsuario.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormCargarVenta.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.FormVentas.resources
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.exe
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.deps.json
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Vista.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\FastReport.Compat.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\FastReport.DataVisualization.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Humanizer.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Irony.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\itextsharp.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\XLParser.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Controladora.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Modelo.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Controladora.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\bin\Debug\net6.0-windows\Modelo.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.csproj.Up2Date
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Vista\obj\Debug\net6.0-windows\ref\Vista.dll

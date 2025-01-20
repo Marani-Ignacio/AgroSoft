@@ -1,0 +1,70 @@
+C:\UAI\2024\Tp_AFA\Modelo\bin\Debug\net6.0\Modelo.deps.json
+C:\UAI\2024\Tp_AFA\Modelo\bin\Debug\net6.0\Modelo.dll
+C:\UAI\2024\Tp_AFA\Modelo\bin\Debug\net6.0\Modelo.pdb
+C:\UAI\2024\Tp_AFA\Modelo\obj\Debug\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2024\Tp_AFA\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfoInputs.cache
+C:\UAI\2024\Tp_AFA\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfo.cs
+C:\UAI\2024\Tp_AFA\Modelo\obj\Debug\net6.0\Modelo.csproj.CoreCompileInputs.cache
+C:\UAI\2024\Tp_AFA\Modelo\obj\Debug\net6.0\Modelo.dll
+C:\UAI\2024\Tp_AFA\Modelo\obj\Debug\net6.0\refint\Modelo.dll
+C:\UAI\2024\Tp_AFA\Modelo\obj\Debug\net6.0\Modelo.pdb
+C:\UAI\2024\Tp_AFA\Modelo\obj\Debug\net6.0\ref\Modelo.dll
+C:\UAI\2024\Tp_AFA\Modelo\bin\Debug\net6.0\Modelo.runtimeconfig.json
+C:\UAI\2024\Tp_AFA\Modelo\obj\Debug\net6.0\Modelo.csproj.AssemblyReference.cache
+C:\UAI\2024\Tp_AFA\Modelo\obj\Debug\net6.0\Modelo.genruntimeconfig.cache
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Modelo\bin\Debug\net6.0\Modelo.deps.json
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Modelo\bin\Debug\net6.0\Modelo.runtimeconfig.json
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Modelo\bin\Debug\net6.0\Modelo.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Modelo\bin\Debug\net6.0\Modelo.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.csproj.AssemblyReference.cache
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfoInputs.cache
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfo.cs
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.csproj.CoreCompileInputs.cache
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\refint\Modelo.dll
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.genruntimeconfig.cache
+C:\UAI\2024\Ingeniería de Software\Tp_Final\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\ref\Modelo.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Modelo\bin\Debug\net6.0\Modelo.deps.json
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Modelo\bin\Debug\net6.0\Modelo.runtimeconfig.json
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Modelo\bin\Debug\net6.0\Modelo.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Modelo\bin\Debug\net6.0\Modelo.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.csproj.AssemblyReference.cache
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfoInputs.cache
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfo.cs
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.csproj.CoreCompileInputs.cache
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\refint\Modelo.dll
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.pdb
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.genruntimeconfig.cache
+C:\UAI\2024\Ingeniería de Software\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\ref\Modelo.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Modelo\bin\Debug\net6.0\Modelo.deps.json
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Modelo\bin\Debug\net6.0\Modelo.runtimeconfig.json
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Modelo\bin\Debug\net6.0\Modelo.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Modelo\bin\Debug\net6.0\Modelo.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.csproj.AssemblyReference.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfoInputs.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfo.cs
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.csproj.CoreCompileInputs.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\refint\Modelo.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.genruntimeconfig.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\ref\Modelo.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Modelo\bin\Debug\net6.0\Modelo.deps.json
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Modelo\bin\Debug\net6.0\Modelo.runtimeconfig.json
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Modelo\bin\Debug\net6.0\Modelo.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Modelo\bin\Debug\net6.0\Modelo.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.csproj.AssemblyReference.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfoInputs.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfo.cs
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.csproj.CoreCompileInputs.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\refint\Modelo.dll
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.pdb
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\Modelo.genruntimeconfig.cache
+C:\UAI\2024\Ingeniería de Software y Trabajo de Diploma\Tp_AgroSoft\Tp_AgroSoft\Modelo\obj\Debug\net6.0\ref\Modelo.dll
